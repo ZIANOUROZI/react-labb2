@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ZIANOUROZI.github.io/react-labb2/static/css/main.9b8aea52.css",
+    "main.js": "/ZIANOUROZI.github.io/react-labb2/static/js/main.18b25b73.js",
+    "static/js/592.c3a4f8d3.chunk.js": "/ZIANOUROZI.github.io/react-labb2/static/js/592.c3a4f8d3.chunk.js",
+    "index.html": "/ZIANOUROZI.github.io/react-labb2/index.html",
+    "main.9b8aea52.css.map": "/ZIANOUROZI.github.io/react-labb2/static/css/main.9b8aea52.css.map",
+    "main.18b25b73.js.map": "/ZIANOUROZI.github.io/react-labb2/static/js/main.18b25b73.js.map",
+    "592.c3a4f8d3.chunk.js.map": "/ZIANOUROZI.github.io/react-labb2/static/js/592.c3a4f8d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b8aea52.css",
+    "static/js/main.18b25b73.js"
+  ]
+}
