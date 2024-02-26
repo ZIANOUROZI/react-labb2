@@ -13,9 +13,7 @@ export default function Kontakt() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Här kan du skicka formulärdata till en backend för bearbetning
     console.log(formData);
-    // Återställ formuläret efter inlämning
     setFormData({ name: "", email: "", message: "" });
   };
 

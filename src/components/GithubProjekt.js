@@ -32,8 +32,8 @@ export default function JsonDemo() {
                     {posts.map(repo => (
                         <li key={repo.id}>
                             <h2 className='repoName'>{repo.name}</h2>
-                            <p>{repo.description}</p>
-                            <p>{repo.html_url}</p>
+                            <p className='repoDescription'>{repo.description}</p>
+                            <p className='repoLänker'>{repo.html_url}</p>
                         </li>
                     ))}
                 </ul>
