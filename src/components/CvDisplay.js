@@ -2,7 +2,7 @@ import React from "react";
 import minameriter from './minameriter.json'
 const CvDisplay = () =>{
     return(
-        <div>
+        <div className="cvName">
             <div>
                 <h1>Arbetserfarenhet</h1>
                <ul>

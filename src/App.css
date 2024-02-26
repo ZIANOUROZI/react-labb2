@@ -23,7 +23,10 @@ h3 {
   font-size: 20px;
   color: #2179d8; 
 }
-
+.cvName{
+  display: flex;
+  justify-content: center;
+}
 
 /*Min påskägg för 1337*/
 .påskägg-container {
