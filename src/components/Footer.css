@@ -1,0 +1,27 @@
+.footer-links{
+    display: flex;  
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style-type: none;
+    padding: 20px;
+}
+.footer-link{
+    text-decoration: none;
+    margin: 80px;
+    color: white;
+}
+.footer.nav{
+    display: flex;
+    justify-content: center;
+}
+.footer-links,
+.footer-link:hover{
+    color: #61dafe;
+    background-color: #555;
+}
+@media screen and (max-width: 800px) {
+    .footer-link,
+    .footer-links{
+      flex-direction: column;
+    }
+  }

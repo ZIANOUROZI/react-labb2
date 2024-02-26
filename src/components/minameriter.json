@@ -1,0 +1,59 @@
+{
+    "myCv": [
+        {
+            "id": 1,
+            "arbetslivserfarenhet": "Butiksäljare OKQ8 Skönsberg",
+            "uppgift": "Stå i kassa, hjälper till med städa och ge ett god service til kunder",
+            "tid": "100%",
+            "sdatum": "20171204",
+            "edatum": "20171204"
+        },
+        {
+            "id": 2,
+            "arbetslivserfarenhet": "Äldrevården, Sundsvalls kommun",
+            "uppgift": "Hjälper till med matlagning, städning,tvättning",
+            "tid": "75%",
+            "sdatum": "20161120",
+            "edatum": "20170620"
+        },
+        {
+            "id": 3,
+            "arbetslivserfarenhet": "Gruppboende, Sundsvalls kommun",
+            "uppgift": "Hjälper till med matlagning, städning,tvättning",
+            "tid": "75%",
+            "sdatum": "20161120",
+            "edatum": "220170620"
+        },
+        {
+            "id": 4,
+            "arbetslivserfarenhet": "Butiksäljare (Praktik) Tempo Bredsand",
+            "uppgift": "Hade praktik via handelsprogrammet på gymnasiet. Hanterade kassan, varuplock, servicevana, etc.",
+            "tid": "80%",
+            "sdatum": "20151012",
+            "edatum": "20160415"
+        }
+    ],
+    "utbildning":[
+        {
+            "id": 100,
+            "namn": "Hedbergska skolan, handelsprogrammet",
+            "kurs": "Handel & service",
+            "syear": "2014",
+            "eyear": "2017"
+        },
+        {
+            "id": 101,
+            "namn": "Unga ledare – ledarutbildning",
+            "kurs": "Unga ledare – ledarutbildning. Kursens innehåll bestod av projektplanering, ledarstilar, presentationsteknik, marknadsföring och ekonomi",
+            "syear": "Null",
+            "eyear": "2014"
+        },
+        {
+            "id": 102,
+            "namn": "Domarutbildning - Fotboll",
+            "kurs": "null",
+            "syear": "Null",
+            "eyear": "2016"
+        }
+    ]
+}
