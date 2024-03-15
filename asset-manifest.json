@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-labb2/static/css/main.c61eeaf0.css",
-    "main.js": "/react-labb2/static/js/main.5e292050.js",
+    "main.js": "/react-labb2/static/js/main.a9635598.js",
     "static/js/592.c3a4f8d3.chunk.js": "/react-labb2/static/js/592.c3a4f8d3.chunk.js",
     "static/media/MicrosoftTeams-image (3).png": "/react-labb2/static/media/MicrosoftTeams-image (3).11e04dcbe4a3a2ee235c.png",
     "index.html": "/react-labb2/index.html",
     "main.c61eeaf0.css.map": "/react-labb2/static/css/main.c61eeaf0.css.map",
-    "main.5e292050.js.map": "/react-labb2/static/js/main.5e292050.js.map",
+    "main.a9635598.js.map": "/react-labb2/static/js/main.a9635598.js.map",
     "592.c3a4f8d3.chunk.js.map": "/react-labb2/static/js/592.c3a4f8d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c61eeaf0.css",
-    "static/js/main.5e292050.js"
+    "static/js/main.a9635598.js"
   ]
 }
